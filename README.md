@@ -1,7 +1,7 @@
 # Hey There!
 - 👋 Hi, I’m @FrenzyNwoba
 - 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently learning Internet Security.
+- 🌱 I’m currently learning Cyber Security.
 - 💞️ I’m looking to collaborate on all things Programming.
 - 📫 How to reach me - linkedIn.com/in/francis-nwoba/
 
