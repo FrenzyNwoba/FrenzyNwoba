@@ -1,5 +1,5 @@
 # Hey There!
-- 👋 Hi, I’m @FrenzyNwoba
+- 👋 Hi, I’m Francis Nwoba
 - 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning Cyber Security.
 - 💞️ I’m looking to collaborate on all things Programming.
