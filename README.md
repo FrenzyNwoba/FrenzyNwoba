@@ -1,8 +1,8 @@
 # Hey There!
-- 👋 Hi, I’m Francis Nwoba
-- 👀 I’m interested in Software Engineering.
+- 👋 Hi, I’m Francis Nwoba, a Software Engineer.
+- 👀 I’m interested in Frontend Development.
 - 🌱 I’m currently learning Cyber Security.
-- 💞️ I’m looking to collaborate on all things Programming.
+- 💞️ I’m looking to collaborate on all things Tech Product Development.
 - 📫 How to reach me - linkedIn.com/in/francis-nwoba/
 
 <!---
